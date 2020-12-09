@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-const App = () => <div>DevisedLabs WPS Portal - App</div>;
+import App from './app';
 
 ReactDOM.render(<App />, document.getElementById('root'));
