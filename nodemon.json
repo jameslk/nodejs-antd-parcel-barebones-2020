@@ -1,4 +1,4 @@
 {
-  "watch": "dist",
+  "watch": "dist/server",
   "delay": "1000"
 }
