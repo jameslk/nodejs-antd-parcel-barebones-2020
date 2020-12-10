@@ -1,8 +1,7 @@
 {
-  "name": "wps-portal",
+  "name": "nodejs-antd-parcel-barebones-2020",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "private": true,
   "scripts": {
     "start": "nodemon ./dist/server",
     "build": "npm-run-all --parallel build:*",
